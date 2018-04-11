@@ -1,4 +1,4 @@
-# Point_Cloud_Labeler
+# Point Cloud Labeler
 This method voxelizes point clouds in .ply, passes them to a 3D Convolutional Neural Network, and determines building geometries (hopefully)
 
 
