@@ -35,21 +35,3 @@ Code
     e) dense layer
 
     f) softmax function
-
-
-
---------------------------------------------------------------------------------------------------------------
-@InProceedings{Rusu_ICRA2011_PCL,
-  author    = {Radu Bogdan Rusu and Steve Cousins},
-  title     = {{3D is here: Point Cloud Library (PCL)}},
-  booktitle = {{IEEE International Conference on Robotics and Automation (ICRA)}},
-  month     = {May 9-13},
-  year      = {2011},
-  address   = {Shanghai, China}
-}
-
-
-
-
-
-
