@@ -15,7 +15,7 @@ python3 source/p_to_v_main.py [pointcloud.txt] [sample/voxel.h5py] [s]
 
 ### Visualize
 ```
-python2 visualization/visualize_npy.py [sample/voxel.h5py]
+python3 visualization/visualize_npy.py [sample/voxel.h5py]
 ```
 - requires [Mayavi](http://docs.enthought.com/mayavi/mayavi/)
 
